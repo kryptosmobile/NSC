@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
     <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id = "com.unifyed.NSC" version   = "4.0.0">
+        id = "com.unifyed.NSC" version   = "4.0.1">
         <name>NSC Mobile</name>
         <description>NSC Mobile</description>
        <author href="http://kryptosmobile.com" email="info@kryptosmobile.com">Kryptos Mobile Team</author>
